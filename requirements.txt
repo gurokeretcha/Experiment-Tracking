@@ -1,0 +1,4 @@
+mlflow
+xgboost==1.7.5
+scikit-learn
+hyperopt
